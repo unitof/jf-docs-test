@@ -1,0 +1,3 @@
+[submodule "posts/post-one"]
+	path = posts/post-one
+	url = ./posts/post-one
